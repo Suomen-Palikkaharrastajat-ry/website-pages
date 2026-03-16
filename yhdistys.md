@@ -8,7 +8,7 @@ nav: true
 
 # Yhdistys
 
-Suomen Palikkaharrastajat ry on rekisteröity yhdistys, jonka kotipaikka on Seinäjoki. Yhdistys edistää LEGO-harrastusta Suomessa järjestämällä tapahtumia, ylläpitämällä yhteisöllisiä keskustelukanavia ja tarjoamalla jäsenetuja.
+Suomen Palikkaharrastajat ry on rekisteröity yhdistys, jonka kotipaikka on Seinäjoki. Yhdistys edistää LEGO-harrastusta Suomessa.
 
 ## Hallitus
 
@@ -17,7 +17,7 @@ Suomen Palikkaharrastajat ry on rekisteröity yhdistys, jonka kotipaikka on Sein
 | Puheenjohtaja | Jouni Niemi |
 | Varapuheenjohtaja | Mirva Virtanen |
 | Sihteeri | Asko Soukka |
-| Hallitusjäsen | Pyry Sipilä |
+| Hallituksen jäsen | Pyry Sipilä |
 
 ## Yhteystiedot
 

@@ -8,60 +8,77 @@ nav: true
 
 # Historiaa
 
-<feature-grid columns="1">
+<timeline>
 
-<feature title="5.3.2026 — Nimi muuttuu" icon="◆">
+<timeline-item date="5.3.2026" title="Suomen Palikkaharrastajat ry" icon="clock">
 
 Yhdistyksen nimi muuttuu "Suomen Palikkaharrastajat ry":ksi vuosikokouksen 18.1.2026 hyväksymien sääntömuutosten myötä.
 
-</feature>
+</timeline-item>
 
-<feature title="8.12.2025 — Discord suljettu" icon="◆">
+<timeline-item date="8.12.2025" title="Discord-palvelin suljetaan" icon="clock">
 
-Suomen Palikkayhteisö ry jatkaa toimintaansa rekisteröitynä yhdistyksenä LEGO-harrastuksen tukemiseksi. Discord-palvelin suljetaan.
+Suomen Palikkayhteisö ry jatkaa toimintaansa palikkaharrastusta tukevana rekisteröitynä yhdistyksenä.
 
-</feature>
+</timeline-item>
 
-<feature title="16.8.2025 — LEGO-tapahtuma Vaasassa" icon="◆">
+<timeline-item date="16.8.2025" title="LEGO-tapahtuma Vaasassa" icon="clock">
 
-Näyttelyala n. 200 m², 370 kävijää, 11 näytteilleasettajaa, 7 tuntia.
+[Vasabladetin uutinen](https://www.vasabladet.fi/Artikel/Visa/896530).
 
-</feature>
+* Tapahtuma-alue n. 200 neliötä
+* Kävijöitä 370
+* Näytteilleasettajia 11
+* Aukioloaika 7h
 
-<feature title="4.5.2025 — LEGO-tapahtuma Seinäjoella" icon="◆">
+</timeline-item>
 
-Näyttelyala n. 800 m², n. 300 kävijää, 19 näytteilleasettajaa, 6 tuntia.
+<timeline-item date="4.5.2025" title="LEGO-tapahtuma Seinäjoella" icon="clock">
 
-</feature>
+Seinäjoen Ravikeskuksessa järjestettiin Suomen Palikkayhteisö ry:n toinen LEGO-tapahtuma!
 
-<feature title="5.3.2025 — PRH hyväksyy rekisteröinnin" icon="◆">
+* Tapahtuma-alue n. 800 neliötä
+* Kävijöitä n. 300
+* Näytteilleasettajia 19
+* Aukioloaika 6h
 
-Patentti- ja rekisterihallitus hyväksyy Suomen Palikkayhteisö ry:n perustamisen.
+</timeline-item>
 
-</feature>
+<timeline-item date="5.3.2025" title="Suomen Palikkayhteisö ry perustetaan " icon="clock">
 
-<feature title="14.12.2024 — Ensimmäinen tapahtuma Nurmossa" icon="◆">
+Erittäin iso askel SPY:llä tapahtui, kun Patentti- ja Rekisterihallitus hyväksyi Suomen Palikkayhteisö ry:n perustamisen.
 
-500 m² näyttelyala, 134 kävijää, 12 näytteilleasettajaa, 5 tuntia.
+</timeline-item>
 
-</feature>
+<timeline-item date="14.12.2024" title="LEGO-tapahtuma Nurmossa" icon="clock">
 
-<feature title="Tammikuu 2024 — Nimi valitaan" icon="◆">
+Suomen Palikkayhteisö otti ison askeleen, kun järjestimme ensimmäisen oman LEGO-tapahtuman yhdessä LEGO-myymälä Panttilan Palikan kanssa! Tapahtumapaikaksi valikoitui Nurmon yläaste Seinäjoella:
 
-Yhteisö ottaa käyttöön nimen "Suomen Palikkayhteisö" osana laajentumistaan.
+* tapahtuma-alue 500 neliötä
+* kävijöitä 134
+* aukioloaika 5h
+* näytteilleasettajia 12.
 
-</feature>
+</timeline-item>
 
-<feature title="13.1.2024 — Ensimmäinen julkinen esiintyminen" icon="◆">
+<timeline-item date="Tammikuu 2024" title="Suomen Palikkayhteisö syntyy" icon="clock">
 
-Discord-yhteisö debytoi Pii Poo LEGO -rakentamistapahtumassa Tampereella.
+Vielä melko pienen mutta nopeasti jäsenten avun ansiosta kasvavan yhteisön nimeksi vaihtuu nykyinen **Suomen Palikkayhteisö**.
 
-</feature>
+Nimenvaihto oli yksi askel kohti yhteisön laajenemista entistä suuremmaksi, koko Suomen yhteisöksi.
 
-<feature title="9.11.2023 — Discord-palvelin perustettu" icon="◆">
+</timeline-item>
 
-*Tästä kaikki alkoi!* — Suomalaisten LEGO-harrastajien Discord-yhteisö perustetaan.
+<timeline-item date="13.1.2024" title="Yhteisö esimmäistä kertaa näkyvillä" icon="clock">
 
-</feature>
+Discord-yhteisö oli ensimmäistä kertaa näkyvillä Pii Poon LEGO-rakennustapahtumassa Tampereella 13.-14.1.2024.
 
-</feature-grid>
+</timeline-item>
+
+<timeline-item date="9.11.2023" title="Discord-palvelin perustetaan" icon="clock">
+
+*Tästä kaikki alkoi!* Suomalaisten LEGO-harrastajien Discord-yhteisö perustettiin tänä päivänä. Suomen Palikkayhteisö -nimi ei tullut kuitenkaan vielä tänä päivänä.
+
+</timeline-item>
+
+</timeline>

@@ -8,7 +8,9 @@ nav: true
 
 # Jäsenyys
 
-Yksityishenkilöt voivat liittyä jäseneksi maksamalla vuosittaisen jäsenmaksun ja toimittamalla tarvittavat tiedot: nimi, asuinkunta, sähköpostiosoite ja valinnainen BrickLink-käyttäjänimi. Hallitus hyväksyy jäsenhakemukset. Jäsenyys on voimassa maksuvuoden loppuun. Jos hakemus hylätään, maksu palautetaan.
+Yhdistyksen jäseneksi voi hakea maksamalla kuluvan vuoden jäsenmaksun ja toimittamalla maksun yhteydessä jäsenyyteen riittävät tiedot (nimi, kotipaikka, sähköpostiosoite ja mahdollinen bricklink-käyttäjätunnus). Jäsenet hyväksyy hakemuksesta yhdistyksen hallitus. Jäsenmaksu on voimassa maksuvuoden loppuun. Jos jäsenhakemusta ei hyväksytä, maksettu summa palautetaan maksajalle.
+
+(Ennen 1.10.2025 maksetut jäsenmaksut ovat voimassa jäsenkortissa määritetyn ajan.)
 
 <callout type="info">
 
@@ -20,7 +22,20 @@ Jäsenmaksu oikeuttaa kaikkiin jäsenetuihin ja antaa äänioikeuden yhdistyksen
 
 ## Jäsenmaksun maksaminen
 
-[Maksa jäsenmaksu](https://suomenpalikkayhteiso.fi/tuote/vuosijasenyys-suomen-palikkayhteiso-ry) ja toimita tietosi osoitteeseen palikkaharrastajatry@outlook.com tai yhdistyksen foorumilla osoitteessa [forum.palikkaharrastajat.fi](https://forum.palikkaharrastajat.fi).
+[Maksa jäsenmaksu](https://suomenpalikkayhteiso.fi/tuote/vuosijasenyys-suomen-palikkayhteiso-ry) ja toimita tietosi osoitteeseen [palikkaharrastajatry@outlook.com
+](mailto:palikkaharrastajatry@outlook.com).
+
+## Keskustelualue
+
+Yhdistyksen jäsenet voivat kohdata ja osallistua yhdistyksen toiminnan suunnitteluun yhdistyksen keskustelualueella: [https://forum.palikkaharrastajat.fi](https://forum.palikkaharrastajat.fi).
+
+Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
+[palikkaharrastajatry@outlook.com
+](mailto:palikkaharrastajatry@outlook.com)
+
+## Palikkakalenteri
+
+Jäsenet pääsevät mukaan rakentamaan harrastukseen liittyvää toimintaa Suomessa koostavaa Palikkakalenteria: [https://kalenteri.palikkaharrastajat.fi](https://kalenteri.palikkaharrastajat.fi).
 
 ## Jäsenedut 2025
 
