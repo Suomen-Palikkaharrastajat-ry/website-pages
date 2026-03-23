@@ -22,7 +22,7 @@ Jäsenmaksu oikeuttaa kaikkiin jäsenetuihin ja antaa äänioikeuden yhdistyksen
 
 ## Jäsenmaksun maksaminen
 
-[Maksa jäsenmaksu](https://suomenpalikkayhteiso.fi/tuote/vuosijasenyys-suomen-palikkayhteiso-ry) ja toimita tietosi osoitteeseen [palikkaharrastajatry@outlook.com
+[Maksa jäsenmaksu](https://maksut.palikkaharrastajat.fi/) ja toimita tietosi osoitteeseen [palikkaharrastajatry@outlook.com
 ](mailto:palikkaharrastajatry@outlook.com).
 
 ## Keskustelualue
