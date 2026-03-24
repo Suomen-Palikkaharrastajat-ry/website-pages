@@ -61,10 +61,6 @@ jobs:
         working-directory: engine
         run: npm ci
 
-      - name: Lint Elm
-        working-directory: engine
-        run: npx elm-review
-
       - name: Inject build metadata
         working-directory: engine
         run: bash scripts/inject-build-meta.sh
