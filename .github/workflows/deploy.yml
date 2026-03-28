@@ -43,6 +43,10 @@ jobs:
           ref: ${{ inputs.engine_ref || 'main' }}
           # Add 'token: ${{ secrets.ENGINE_PAT }}' here for a private engine repo
 
+      - name: Init engine submodules
+        working-directory: engine
+        run: make vendor
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
