@@ -8,7 +8,7 @@ nav: true
 
 # Jäsenyys
 
-Yhdistyksen jäseneksi voi hakea maksamalla kuluvan vuoden jäsenmaksun ja toimittamalla maksun yhteydessä jäsenyyteen riittävät tiedot (nimi, kotipaikka, sähköpostiosoite ja mahdollinen bricklink-käyttäjätunnus). Jäsenet hyväksyy hakemuksesta yhdistyksen hallitus. Jäsenmaksu on voimassa maksuvuoden loppuun. Jos jäsenhakemusta ei hyväksytä, maksettu summa palautetaan maksajalle.
+Yhdistyksen jäseneksi voi hakea [maksamalla kuluvan vuoden jäsenmaksun](https://maksut.palikkaharrastajat.fi) ja toimittamalla maksun yhteydessä jäsenyyteen riittävät tiedot (nimi, kotipaikka, sähköpostiosoite ja mahdollinen bricklink-käyttäjätunnus). Jäsenet hyväksyy hakemuksesta yhdistyksen hallitus. Jäsenmaksu on voimassa maksuvuoden loppuun. Jos jäsenhakemusta ei hyväksytä, maksettu summa palautetaan maksajalle.
 
 (Ennen 1.10.2025 maksetut jäsenmaksut ovat voimassa jäsenkortissa määritetyn ajan.)
 
@@ -16,13 +16,13 @@ Yhdistyksen jäseneksi voi hakea maksamalla kuluvan vuoden jäsenmaksun ja toimi
 
 **Vuosijäsenyys 2026 — 10,00 €**
 
-Jäsenmaksu oikeuttaa kaikkiin jäsenetuihin ja antaa äänioikeuden yhdistyksen kokouksissa (15 vuotta täyttäneille).
+[Jäsenmaksu](https://maksut.palikkaharrastajat.fi) oikeuttaa kaikkiin jäsenetuihin ja antaa äänioikeuden yhdistyksen kokouksissa (15 vuotta täyttäneille).
 
 </callout>
 
 ## Jäsenmaksun maksaminen
 
-[Maksa jäsenmaksu](https://maksut.palikkaharrastajat.fi/) ja toimita tietosi osoitteeseen [palikkaharrastajatry@outlook.com
+[Maksa jäsenmaksu yhdistyksen maksupalvelussa](https://maksut.palikkaharrastajat.fi/) ja toimita tietosi osoitteeseen [palikkaharrastajatry@outlook.com
 ](mailto:palikkaharrastajatry@outlook.com).
 
 ## Keskustelualue
