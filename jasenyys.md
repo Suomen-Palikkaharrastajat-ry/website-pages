@@ -4,6 +4,7 @@ description: "Liity Suomen Palikkaharrastajat ry:n jäseneksi ja nauti jäsenedu
 slug: jasenyys
 published: true
 nav: true
+order: 2
 ---
 
 # Jäsenyys
