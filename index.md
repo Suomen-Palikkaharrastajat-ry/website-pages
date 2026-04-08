@@ -32,13 +32,13 @@ Yhdistys ylläpitää ja kehittää seuraavia harrastusta tukevia verkkopalvelui
 
 <feature title="Palikkalinkit" icon="rss" href="https://linkit.palikkaharrastajat.fi/">
 
-[Palikkalinkit](https://linkit.palikkaharrastajat.fi/) on päivittyvä vilkaisu kotimaisten harrastajien tuottamaan sisältöön. Sivustolle voidaan lisätä julkisia "syötteitä" (RSS, ATOM, ...) tarjoavia palveluita ja sivustoja.
+Palikkalinkit on päivittyvä vilkaisu kotimaisten harrastajien tuottamaan sisältöön. Sivustolle voidaan lisätä julkisia "syötteitä" (RSS, ATOM, ...) tarjoavia palveluita ja sivustoja.
 
 </feature>
 
 <feature title="Palikkakalenteri" icon="calendar" href="https://kalenteri.palikkaharrastajat.fi">
 
-[Palikkakalenteri](https://kalenteri.palikkaharrastajat.fi/) on yhteisöllisesti ylläpidettävä kalenteri harrastukseen liittyvistä tapahtumista erityisesti Suomessa.
+Palikkakalenteri on yhteisöllisesti ylläpidettävä kalenteri harrastukseen liittyvistä tapahtumista erityisesti Suomessa.
 
 </feature>
 
