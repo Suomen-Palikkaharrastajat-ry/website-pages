@@ -80,7 +80,10 @@ logo        = "/logo/square/svg/square-smile-full-dark-bold.svg"
 # Label rendered above the footer link list (typically the organisation name).
 site_label  = "Palikkaharrastajat"
 copyright   = "© 2026 Suomen Palikkaharrastajat ry"
-disclaimer  = "LEGO® on LEGO Groupin rekisteröity tavaramerkki"
+disclaimer  = [
+    "LEGO® on LEGO Groupin rekisteröity tavaramerkki",
+    "Tämä sivusto ei ole LEGO Groupin virallinen sivusto."
+]
 links = [
     { label = "Jäsenfoorumi", href = "https://forum.palikkaharrastajat.fi" },
     { label = "Palikkakalenteri", href = "https://kalenteri.palikkaharrastajat.fi" },
