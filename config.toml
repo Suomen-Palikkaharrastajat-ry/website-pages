@@ -56,10 +56,10 @@ maskable_icon = "/icon-maskable.png"
 
 [branding]
 # Horizontal logo paths — light variant for dark surfaces, dark variant for light surfaces.
-logo_light = "/logo/horizontal/svg/horizontal-full.svg"
-logo_light_mobile = "/logo/horizontal/svg/horizontal.svg"
-logo_dark  = "/logo/horizontal/svg/horizontal-full-dark-bold.svg"
-logo_dark_mobile  = "/logo/horizontal/svg/horizontal.svg"
+logo_light = "/logo/horizontal/png/horizontal-full-animated.webp"
+logo_light_mobile = "/logo/horizontal/png/horizontal-animated.webp"
+logo_dark  = "/logo/horizontal/png/horizontal-full-dark-bold-animated.webp"
+logo_dark_mobile  = "/logo/horizontal/png/horizontal-animated.webp"
 logo_alt   = "Suomen Palikkaharrastajat ry"
 
 [navbar]

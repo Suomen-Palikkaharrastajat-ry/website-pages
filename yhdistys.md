@@ -13,12 +13,12 @@ Suomen Palikkaharrastajat ry on rekisteröity yhdistys, jonka kotipaikka on Sein
 
 ## Hallitus
 
-| Nimi | Tehtävä |
-|---|---|
-| Jouni Niemi | Puheenjohtaja |
-| Mirva Virtanen | Varapuheenjohtaja |
-| Asko Soukka | Sihteeri |
-| Pyry Sipilä | Hallituksen jäsen |
+| Nimi | Tehtävä | |
+|---|---|-|
+| Jouni Niemi | Puheenjohtaja | |
+| Mirva Virtanen | Varapuheenjohtaja | |
+| Asko Soukka | Sihteeri | |
+| Pyry Sipilä | Hallituksen jäsen | |
 
 Hallitus kokoontuu tarvittaessa ja käsittelee mm. jäsenhakemukset. Jäsenyyteen liittyvissä asioissa ota yhteyttä sähköpostitse
 
