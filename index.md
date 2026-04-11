@@ -10,6 +10,8 @@ order: 0
 
 # Suomen Palikkaharrastajat ry
 
+<search/>
+
 <with-image src="./images/suurennuslasi.png" alt="LEGO-harrastaja" side="right">
 
 ## Mitä?
