@@ -66,6 +66,14 @@ logo_alt   = "Suomen Palikkaharrastajat ry"
 # Set to true to make the navbar sticky (fixed at top of viewport on mobile).
 sticky = true
 
+[admin]
+enabled = true
+path = "/admin/"
+content_owner = "Suomen-Palikkaharrastajat-ry"
+content_repo = "website"
+content_branch = "main"
+content_path = ""
+
 [footer]
 # Square logo shown in the footer.
 logo        = "/logo/square/svg/square-smile-full-dark-bold.svg"
