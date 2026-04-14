@@ -12,7 +12,7 @@ order: 0
 
 <search/>
 
-<with-image src="./images/suurennuslasi.png" alt="LEGO-harrastaja" side="right">
+![{max-lg float-right}LEGO-harrastaja](./images/suurennuslasi.png)
 
 ## Mitä?
 
@@ -23,8 +23,6 @@ Suomen Palikkaharrastajat ry on LEGO-harrastajien rekisteröity yhdistys. Yhdist
 Yhdistyksen jäseniä ja muita LEGO-harrastajia löydät netistä ainakin [Palikkatakomo ry:n Discord-palvelimelta](https://discord.gg/Xn9GWT485J) tai [Palikkatakomo ry:n foorumilta](https://www.palikkatakomo.org/forum/). Meitä näkyy myös livenä näyttelyissä ja muissa harrastukseen sopivissa tapahtumissa. Yhdistyksen jäsenille tarkoitettu foorumi löytyy täältä: [forum.palikkaharrastajat.fi](https://forum.palikkaharrastajat.fi)
 
 PS. Lisää tietoa LEGO-harrastuksesta löydät myös [Palikkatakomo ry:n kotisivuilta](https://www.palikkatakomo.org/).
-
-</with-image>
 
 ## Muuta?
 

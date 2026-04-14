@@ -12,6 +12,11 @@ order: 3
 
 <timeline>
 
+<timeline-item date="28.–29.3.2026" title="Palikat Lentoon! -näyttelyssä" icon="star">
+
+Yhdistyksen jäsenen pöytä sijoittui Suomen ilmailumuseon ja Palikkatakomon ry:n näyttelyn yleisöäänestyksessä 3. sijalle.
+</timeline-item>
+
 <timeline-item date="5.3.2026" title="Suomen Palikkaharrastajat ry" icon="clock">
 
 Yhdistyksen nimi muuttuu "Suomen Palikkaharrastajat ry":ksi vuosikokouksen 18.1.2026 hyväksymien sääntömuutosten myötä.
@@ -24,7 +29,7 @@ Suomen Palikkayhteisö ry jatkaa toimintaansa palikkaharrastusta tukevana rekist
 
 </timeline-item>
 
-<timeline-item date="16.8.2025" title="LEGO-tapahtuma Vaasassa" icon="clock">
+<timeline-item date="16.8.2025" title="LEGO-tapahtuma Vaasassa" icon="star">
 
 [Vasabladetin uutinen](https://www.vasabladet.fi/Artikel/Visa/896530).
 
@@ -35,7 +40,7 @@ Suomen Palikkayhteisö ry jatkaa toimintaansa palikkaharrastusta tukevana rekist
 
 </timeline-item>
 
-<timeline-item date="4.5.2025" title="LEGO-tapahtuma Seinäjoella" icon="clock">
+<timeline-item date="4.5.2025" title="LEGO-tapahtuma Seinäjoella" icon="star">
 
 Seinäjoen Ravikeskuksessa järjestettiin Suomen Palikkayhteisö ry:n toinen LEGO-tapahtuma!
 
