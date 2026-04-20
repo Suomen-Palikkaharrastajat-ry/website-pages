@@ -12,7 +12,7 @@ order: 0
 
 <search/>
 
-![{max-lg float-right}LEGO-harrastaja](./images/suurennuslasi.png)
+![{max-w-lg float-right}LEGO-harrastaja](./images/suurennuslasi.png)
 
 ## Mitä?
 
