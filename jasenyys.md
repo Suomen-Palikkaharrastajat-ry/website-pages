@@ -65,14 +65,14 @@ Yhdistyksen vuodelle 2026 varmistetut jäsenedut:
 
 <feature-grid columns="2">
 
-<feature title="Joshua Train Bricks" icon="star" href="https://store.bricklink.com/joshuatrain">
+<feature title="Joshua's Train Bricks" icon="star" href="https://store.bricklink.com/joshuatrain">
 **https://store.bricklink.com/joshuatrain**
 
 Juna-aiheinen BrickLink-kauppa
 
 - 10 % alennus tilauksista
 
-Pyydä alennuskoodi ennen ostoksia kaupan "Contact"-painikkeella viestillä "Suomen Palikkaharrastajat ry:n jäsenetu".
+Joshua's Train Bricks luo BrickLink-tunnuksensa yhdistykselle ilmoittaneille jäsenille kertakäyttöisen BrickLink-kupongin, jonka myös korvaa tarvittaessa.
 </feature>
 
 <feature title="Panttilan Palikka" icon="star" href="https://panttilanpalikka.sumupstore.com/">
