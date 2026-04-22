@@ -132,3 +132,7 @@ Lisäksi rekisteröidyllä on oikeus tehdä valitus valvontaviranomaiselle.
 ## Tietoturvaloukkaukset
 
 Mahdollisista henkilötietojen tietoturvaloukkauksista ilmoitetaan sovellettavan lainsäädännön mukaisesti viranomaisille ja tarvittaessa rekisteröidyille.
+
+## Muuta
+
+* [Yhdistyksen maksuliikenteen tietosuojakäytäntö](https://maksut.palikkaharrastajat.fi/sivu/tietosuojakaytanto).
