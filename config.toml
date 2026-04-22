@@ -96,4 +96,5 @@ links = [
     { label = "Jäsenkortti", href = "https://kortti.palikkaharrastajat.fi" },
     { label = "Palikkalinkit", href = "https://linkit.palikkaharrastajat.fi" },
     { label = "Jäsenmaksu", href = "https://maksut.palikkaharrastajat.fi" },
+    { label = "Tietosuoja", href = "https://palikkaharrastajat.fi/tietosuoja" },
 ]
