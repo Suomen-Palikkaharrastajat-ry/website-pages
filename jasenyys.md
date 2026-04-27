@@ -51,7 +51,6 @@ Päivittyvä vilkaisu kotimaisten harrastajien tuottamaan sisältöön.
 Jäsenet pääsevät mukaan rakentamaan harrastukseen liittyvää toimintaa Suomessa koostavaa Palikkakalenteria.
 </feature>
 
-
 <feature title="Jäsenkortti" icon="user" href="https://kortti.palikkaharrastajat.fi/">
 Yhdistyksellä on käytössä sähköinen jäsenkortti, johon kirjaudutaan sähköpostiosoitteella – samalla tavalla kuin yhdistyksen keskustelualueelle.
 </feature>
@@ -76,7 +75,7 @@ Bricklink-kauppa
 
 - 10 % alennus tilauksista
 - 15 % alennus yli 80 € tilauksista
-- **Ei koske settejä** (ethän lisää niitä samaan tilaukeseen)
+- **Ei koske settejä** (ethän lisää niitä samaan tilaukseen)
 
 Grizzlies' Briks luo BrickLink-tunnuksensa yhdistykselle ilmoittaneille jäsenille kertakäyttöisen BrickLink-kupongin, jonka kauppa uusii aina tarvittaessa.
 </feature>
