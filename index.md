@@ -49,13 +49,17 @@ Lisää tietoja löydät [yhdistyksen jäsenyyden yhteydestä](jasenyys).
 ## Yhteistyökumppanit
 
 <feature-grid columns="2" align="center" order="random">
+
 <feature title="Grizzlies' Bricks" href="https://store.bricklink.com/tspio">
 ![Grizzlies' Bricks](./images/grizzliesbricks.png)
 </feature>
+
 <feature title="Joshua's Train Bricks" href="https://store.bricklink.com/joshuatrain">
 ![{align-center}Joshua's Train Bricks](./images/joshuastrainbricks.png)
 </feature>
+
 <feature title="Panttilan Palikka" href="https://pattilanpalikka.sumupstore.com">
 ![Panttilan Palikka](./images/panttilanpalikka.png)
 </feature>
+
 </feature-grid>
