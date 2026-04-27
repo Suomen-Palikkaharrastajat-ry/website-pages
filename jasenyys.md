@@ -67,7 +67,19 @@ Jos et pääse keskustelualueelle, ilmoita yhdistykselle sähköpostiosoitteesi:
 
 Yhdistyksen vuodelle 2026 varmistetut jäsenedut:
 
-<feature-grid columns="2">
+<feature-grid columns="2" icon="star "order="random">
+
+<feature title="Grizzlies' Bricks" href="https://store.bricklink.com/tspio">
+**https://store.bricklink.com/tspio**
+
+Bricklink-kauppa
+
+- 10 % alennus tilauksista
+- 15 % alennus yli 80 € tilauksista
+- **Ei koske settejä** (ethän lisää niitä samaan tilaukeseen)
+
+Grizzlies' Briks luo BrickLink-tunnuksensa yhdistykselle ilmoittaneille jäsenille kertakäyttöisen BrickLink-kupongin, jonka kauppa uusii aina tarvittaessa.
+</feature>
 
 <feature title="Joshua's Train Bricks" icon="star" href="https://store.bricklink.com/joshuatrain">
 **https://store.bricklink.com/joshuatrain**
@@ -76,18 +88,23 @@ Juna-aiheinen BrickLink-kauppa
 
 - 10 % alennus tilauksista
 
-Joshua's Train Bricks luo BrickLink-tunnuksensa yhdistykselle ilmoittaneille jäsenille kertakäyttöisen BrickLink-kupongin, jonka myös korvaa tarvittaessa.
+Joshua's Train Bricks luo BrickLink-tunnuksensa yhdistykselle ilmoittaneille jäsenille kertakäyttöisen BrickLink-kupongin, jonka kauppa uusii aina tarvittaessa.
 </feature>
 
 <feature title="Panttilan Palikka" icon="star" href="https://panttilanpalikka.sumupstore.com/">
 **https://panttilanpalikka.sumupstore.com/**
 
-LEGO-kauppa Kurikassa
+LEGO-kauppa Kurikassa ja Bricklinkissä
+
 - 10 % alennus tilauksista
 - 15 % alennus yli 80 euron tilauksista
 - Ei koske minifiguureja ja settejä
+
+Panttilan Palikka luo BrickLink-kupongin pyydettäessä, kun pyydät sitä esimerkiksi BrickLink-kaupan Contact-painikkeen lomakkeella.
 </feature>
 
 </feature-grid>
+
+Etkö ole saanut BrickLink-kuponkeja? Ilmoita BrickLink-tunnuksesi yhdistykselle ja me välitämme sen kaupoille: [palikkaharrastajatry@outlook.com](mailto:palikkaharrastajatry@outlook.com).
 
 Haluatko tarjoa etuja jäsenillemme? Ota yhteyttä: [palikkaharrastajatry@outlook.com](mailto:palikkaharrastajatry@outlook.com).
