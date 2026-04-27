@@ -98,7 +98,7 @@ LEGO-kauppa Kurikassa ja Bricklinkissä
 
 - 10 % alennus tilauksista
 - 15 % alennus yli 80 euron tilauksista
-- Ei koske minifiguureja ja settejä
+- **Ei koske minifiguureja ja settejä**
 
 Panttilan Palikka luo BrickLink-kupongin pyydettäessä, kun pyydät sitä esimerkiksi BrickLink-kaupan Contact-painikkeen lomakkeella.
 </feature>
