@@ -8,6 +8,14 @@ order: 1
 
 # Ajankohtaista
 
+
+## 29.4.2026 — Jäsekirje 1 / 2026
+
+[Lue tästä Suomen Palikkaharrastajat ry:n vuoden 2026 ensimmäinen jäsenkirje](jasenkirje).
+
+Jos et saanut jäsenkirjettä sähköpostiisi tai kirje herättää kysyttävää, [lähetä meille sähköpostia](mailto:palikkaharrastajatry@outlook.com).
+
+
 ## 5.3.2026 — Yhdistyksen nimi muuttui
 
 Yhdistyksen [säännöt](saannot) päivittyivät 5.3.2026 vuosikokouksen 18.1.2026 hyväksymien sääntömuutosten mukaisesti. Yhdistyksen uusi nimi on nyt **Suomen Palikkaharrastajat ry**, yhdistyksen kotisivujen osoite [https://palikkaharrastajat.fi](https://palikkaharrastajat.fi) ja sähköpostiosoite [palikkaharrastajatry@outlook.com](mailto:palikkaharrastajatry@outlook.com).
